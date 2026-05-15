@@ -2,6 +2,8 @@
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://f9xxs69tntjk9aq4tokhwx.streamlit.app/)
 
+![Upwork API Support Bot UI Preview](public/image.png)
+
 > A RAG (Retrieval-Augmented Generation) chatbot that answers developer questions using the official Upwork API documentation. Built as part of the Associate AI Developer technical assignment.
 
 **Author:** Rahul Mirji  
