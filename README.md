@@ -1,15 +1,24 @@
 # 🤖 Upwork API Support Bot
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://f9xxs69tntjk9aq4tokhwx.streamlit.app/)
+
 > A RAG (Retrieval-Augmented Generation) chatbot that answers developer questions using the official Upwork API documentation. Built as part of the Associate AI Developer technical assignment.
 
 **Author:** Rahul Mirji  
-**Stack:** Python · LangChain · ChromaDB · Sentence Transformers · Meta LLaMA 3.1 · DeepInfra · Streamlit
+**Stack:** Python · LangChain · ChromaDB · Sentence Transformers · Meta LLaMA 3.1 · DeepInfra · Streamlit  
+**Live App:** https://f9xxs69tntjk9aq4tokhwx.streamlit.app/
 
 ---
 
 ## 📌 Overview
 
 This bot reads the Upwork API documentation PDF, converts it into searchable vector embeddings, and uses a hosted LLM to answer questions — **strictly from the retrieved documentation**. It will never hallucinate. If the answer is not in the docs, it says so explicitly.
+
+## 🌐 Live Demo
+
+> **Try it now:** [https://f9xxs69tntjk9aq4tokhwx.streamlit.app/](https://f9xxs69tntjk9aq4tokhwx.streamlit.app/)
+
+No installation required. Ask any question about the Upwork API and see the answer, latency, and source documentation chunks in real time.
 
 ---
 
