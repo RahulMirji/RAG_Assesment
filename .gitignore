@@ -1,0 +1,22 @@
+# Secrets — NEVER commit
+.env
+
+# Virtual environment
+venv/
+
+# ChromaDB — auto-generated, rebuilds on first run
+chroma_db/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/

@@ -1,0 +1,14 @@
+streamlit
+langchain
+langchain-community
+langchain-openai
+chromadb
+langchain-huggingface
+sentence-transformers==3.0.1
+transformers==4.44.0
+torch
+numpy<2.0
+pypdf
+python-dotenv
+openai
+tiktoken
